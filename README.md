@@ -1,38 +1,40 @@
 # ProfileUI – Activity 03
 
-**Name:** Gerald Mamasalanang  
+**Name:** Daniel Victorioso  
 **Section:** DIT 3-1  
 **Activity Title:** Profile UI Design  
-**Repository Name:** DIT3-1-GeraldMamasalanang-Act03  
+**Repository Name:** DIT3-1-DanielVictorioso-Act03  
 
 ---
 
-## Project Description
-This project is an Android app that displays a simple **Profile Screen** using a clean and responsive UI design.  
+## 📱 Project Description
+This project is an Android app that displays a clean and responsive **Profile Screen**.  
 The layout includes:
-- A profile picture (ImageView)  
-- The user’s name (TextView)  
-- A short bio or description (TextView)  
-- An edit button (Button)  
+- A **profile picture (ImageView)**  
+- The **user’s name (TextView)**  
+- A **short bio or description (TextView)**  
+- An **edit button (Button)**  
 
-The goal is to apply good UI/UX design principles using **ConstraintLayout**, proper spacing, readable text, and consistent styling.
+The goal is to demonstrate good **UI/UX design principles** using **ConstraintLayout**, balanced spacing, readable typography, and consistent color styling.
 
 ---
 
-## Reflection
+## 🧠 Reflection
 
 **1. What design choices did you make (colors, fonts, layout)?**  
-I used a light background with dark text for better readability. The name text is bold and centered, while the bio text is smaller and has a softer tone. The layout uses **ConstraintLayout** to keep everything aligned properly, and the button color matches the app’s accent theme.
+I used a light background with dark text for better readability. The user’s name is bold and centered, while the bio uses a smaller, softer tone for contrast.  
+The layout is built with **ConstraintLayout** to maintain alignment and balance. The edit button color complements the app’s accent theme.
 
 **2. How did you ensure the screen is user-friendly and accessible?**  
-I used proper text sizing (`sp`) and spacing (`dp`) for consistent scaling. I also made sure there’s enough contrast between text and background. The layout stays neat and readable in both portrait and landscape mode.
+I used appropriate text sizing (`sp`) and spacing (`dp`) for better scaling across different screens.  
+There’s enough color contrast between text and background for readability, and the layout adapts well to both portrait and landscape modes.
 
 **3. What would you improve if this were a real app?**  
-If this were a real app, I’d make the Edit button functional, allow users to update their photo and bio, and add dark mode support for better accessibility.
+If this were a real app, I’d add functionality to the **Edit** button, allow users to change their photo and bio, and implement **dark mode** for accessibility and user preference.
 
 ---
 
-## How to Run
-1. Clone the repository:
+## 🚀 How to Run
+1. Clone this repository:
    ```bash
-   git clone git@github.com:mamasalanang-gerald/DIT3-1-GeraldMamasalanang-Act03.git
+   git clone git@github.com:daniel-victorioso/DIT3-1-DanielVictorioso-Act03.git
